@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1015755971591",
+    "firebase_url": "https://katy-acac7-default-rtdb.firebaseio.com",
+    "project_id": "katy-acac7",
+    "storage_bucket": "katy-acac7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015755971591:android:a103d97c87977abed4dea2",
+        "android_client_info": {
+          "package_name": "com.example.katy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTnutbvR7JhRDzIGUR-warx0gD_21503Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
